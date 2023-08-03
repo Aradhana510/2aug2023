@@ -1,0 +1,14 @@
+C:\Users\a\Desktop\Assesmentsdaily\Assessment21\bin\Debug\net8.0\Assessment21.exe
+C:\Users\a\Desktop\Assesmentsdaily\Assessment21\bin\Debug\net8.0\Assessment21.deps.json
+C:\Users\a\Desktop\Assesmentsdaily\Assessment21\bin\Debug\net8.0\Assessment21.runtimeconfig.json
+C:\Users\a\Desktop\Assesmentsdaily\Assessment21\bin\Debug\net8.0\Assessment21.dll
+C:\Users\a\Desktop\Assesmentsdaily\Assessment21\bin\Debug\net8.0\Assessment21.pdb
+C:\Users\a\Desktop\Assesmentsdaily\Assessment21\obj\Debug\net8.0\Assessment21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\Assesmentsdaily\Assessment21\obj\Debug\net8.0\Assessment21.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\Assesmentsdaily\Assessment21\obj\Debug\net8.0\Assessment21.AssemblyInfo.cs
+C:\Users\a\Desktop\Assesmentsdaily\Assessment21\obj\Debug\net8.0\Assessment21.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Assesmentsdaily\Assessment21\obj\Debug\net8.0\Assessment21.dll
+C:\Users\a\Desktop\Assesmentsdaily\Assessment21\obj\Debug\net8.0\refint\Assessment21.dll
+C:\Users\a\Desktop\Assesmentsdaily\Assessment21\obj\Debug\net8.0\Assessment21.pdb
+C:\Users\a\Desktop\Assesmentsdaily\Assessment21\obj\Debug\net8.0\Assessment21.genruntimeconfig.cache
+C:\Users\a\Desktop\Assesmentsdaily\Assessment21\obj\Debug\net8.0\ref\Assessment21.dll
